@@ -1,7 +1,7 @@
 # Hey there, I'm Sayan
 ![work](https://github.com/user-attachments/assets/ecf1d6e6-2fc8-4bb5-921e-01f00097cd7f)
 
-Comfortable with HTML, CSS, JavaScript, and Python; currently focusing on backend development with Node.js and Express, alongside consistent DSA practice.
+Comfortable with HTML, CSS, JavaScript, and Python. Currently focusing on backend development with Node.js and Express, alongside consistent DSA practice.
 
 ## Comfortable with
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
