@@ -1,5 +1,8 @@
 # Hey there, I'm Sayan Bhowal
-![work](https://github.com/user-attachments/assets/ecf1d6e6-2fc8-4bb5-921e-01f00097cd7f)
+![city](https://github.com/user-attachments/assets/c3e59f45-f4ac-499e-a9c2-9322624c288e)
+![windmill](https://github.com/user-attachments/assets/7c2b612c-91e3-4fbf-a126-fd7506cf70fd)
+
+
 
 Comfortable with HTML, CSS, JavaScript, and Python. Currently focusing on backend development with Node.js and Express, alongside consistent DSA practice.
 
