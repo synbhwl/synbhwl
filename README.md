@@ -1,6 +1,6 @@
 # Hey there, I'm Sayan Bhowal
 <img src="https://github.com/user-attachments/assets/c3e59f45-f4ac-499e-a9c2-9322624c288e" width="100%">
-Comfortable with HTML, CSS, JavaScript, and Python. Currently focusing on backend development with Node.js and Express, alongside consistent DSA practice.
+I am a backend developer (Node.js and Express.js) also comfortable with HTML, CSS, Vanilla JavaScript and Python. I make projects regularly out of what i learn. Currently focusing completely on backend development with JS and DSA with Python.
 
 ## Socials
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayancodes)
