@@ -1,13 +1,16 @@
 # Hey there, I'm Sayan Bhowal
 <img src="https://github.com/user-attachments/assets/c3e59f45-f4ac-499e-a9c2-9322624c288e" width="100%">
-I am a backend developer (Node.js and Express.js) also comfortable with HTML, CSS, Vanilla JavaScript and Python. I make projects regularly out of what i learn. Currently focusing completely on backend development with JS and DSA with Python.
+I am a backend developer mastering Golang. I am also comfortable with basic Node.js, Express.js and python for DSA. My projects are demonstrations of my regular learning.
 
 ## Socials
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayancodes)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Sayancodes)
 [![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1381466802189631540)
 
-## Tech I use regularly
+## Current focus 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+## Other Tech I have used
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
