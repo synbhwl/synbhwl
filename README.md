@@ -1,6 +1,6 @@
 # Hey there, I'm Sayan Bhowal
 <img src="https://github.com/user-attachments/assets/c3e59f45-f4ac-499e-a9c2-9322624c288e" width="100%">
-I am a backend developer mastering Golang. I am also comfortable with basic Node.js, Express.js and python for DSA. My projects are demonstrations of my regular learning.
+I am a backend developer. Currently focusing on python. I am also comfortable with basic Node.js, Express.js and Go. My projects are demonstrations of my regular learning.
 
 ## Socials
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayancodes)
